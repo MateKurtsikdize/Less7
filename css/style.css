@@ -1,0 +1,100 @@
+.Logo{
+    margin-left: 95px;
+}
+
+.flex-header{
+    display: flex;
+    justify-content: space-around;
+
+}
+.div1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.li{
+    display: inline-block;
+    vertical-align: center;
+    margin-left: 57px;
+}
+.main{
+    width: 1360px;
+    height: 650px;
+    margin: 0 auto;
+    margin-top: 26px;
+}
+.image{
+    width: 589px;
+    height: 129px;
+    position: relative;
+}
+.text{
+    width: 589px;
+    height: 129px;
+    position: relative;
+    margin: 184px 679px 255px 93px;
+}
+.greece{
+    width: 586px;
+    height: 88px;
+    font-size: 78px;
+    color: white;
+}
+.with{
+    width: 286px;
+    height: 24px ;
+    font-size: 15px;
+    color: white;
+}
+.container{
+    width: 1171px;
+    height: 682px;
+    margin: 0 auto;
+    display: flex;
+    margin-top: 73px;
+   
+}
+.Disc{
+    width: 73px;
+    height: 21px;
+    color: #8D8D8D;
+}
+.our{
+    color: #1A1A1B;
+    width: 192px;
+    height: 35px;
+    font-size: 26px;
+}
+.main-div{
+    width: 241px;
+    height: 242px;
+}
+.lorem{
+    color: #8D8D8D;
+    font-size: 16px;
+    margin-top: 20px;
+}
+.right-block{
+    width: 900px;
+    height: 676px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-left: 59px;
+}
+.box{
+    width: 269px;
+    height: 181px;
+}
+.lorem2{
+    color: #8D8D8D;
+    margin-top: 52px;
+    
+}
+.flight{
+    position: absolute;
+    width: 152px;
+    height: 14px;
+   margin-top: 20px;
+   font-size: 14px;
+}
